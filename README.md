@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning ...
-  - C++ - Refresg on C++17 and 20.
+  - C++ - Refresh on C++17 and 20.
   - Rust - Will focus more after C++ refresh.
   - How to battle imposter syndrome.
 - 💬 Ask me about ...
