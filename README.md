@@ -10,6 +10,8 @@
   - I cannot type and talk at the same time.
 - 😄 Pronouns: ...
   - He/Him/His
+- 📫 How to reach me: ...
+  - [Personal Website](https://www.jonathanhardison.com)
 
 <!--
 **jmhardison/jmhardison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
