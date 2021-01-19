@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning ...
+  - C++ - Refresg on C++17 and 20.
+  - Rust - Will focus more after C++ refresh.
+  - How to battle imposter syndrome.
+- 💬 Ask me about ...
+  - Anything Azure or Terraform.
+- ⚡ Fun fact: ...
+  - I cannot type and talk at the same time.
+- 😄 Pronouns: ...
+  - He/Him/His
+
 <!--
 **jmhardison/jmhardison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
