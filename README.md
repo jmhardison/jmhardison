@@ -13,4 +13,4 @@
   - He/Him
 - 📫 How to reach me: ...
   - [Personal Website](https://www.jonathanhardison.com)
-  - Hit me up on Mastodon! <a rel="me" href="https://mastodon.social/@jhardison">https://mastodon.social/@jhardison</a>
+  - Hit me up on <a rel="me" href="https://mastodon.social/@jhardison">Mastodon</a>
