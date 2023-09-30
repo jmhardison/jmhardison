@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning ...
   - Flutter - You should too!
   - C++ - Refresh on C++17 and 20.
-  - Rust - Will focus more after C++ refresh.
+  - Rolling up on kotlin and refreshing python with a focus on AI.
+  - Basically all the codecademy things...
   - How to battle imposter syndrome.
 - 💬 Ask me about ...
   - Anything Azure or Terraform.
