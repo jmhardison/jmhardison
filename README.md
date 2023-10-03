@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning ...
-  - Flutter - You should too!
-  - C++ - Refresh on C++17 and 20.
+  - Prepping for Certified Kubernetes Administrator (CKA).
   - Rolling up on kotlin and refreshing python with a focus on AI.
   - Basically all the codecademy things...
   - How to battle imposter syndrome.
@@ -15,3 +14,4 @@
 - 📫 How to reach me: ...
   - [Personal Website](https://www.jonathanhardison.com)
   - Hit me up on <a rel="me" href="https://mastodon.social/@jhardison">Mastodon</a>
+  - Or try me on <a rel="me" href="https://threads.net/@thatonejonathan">Threads</a>
